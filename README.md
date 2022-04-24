@@ -36,7 +36,7 @@ cp textfile newfile
 $ cat newfile
 Output : abcdefghijklmnopqrstuvwxyz
 
-**. rm** - The rm (remove file) command is used to delete files.
+**8. rm** - The rm (remove file) command is used to delete files.
 rm newfile
 $ ls
 abc  cptext  mytext  textfile
